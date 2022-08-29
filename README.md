@@ -1,7 +1,10 @@
-# Tauri + React + Typescript
+# Tommy's cross platform password manager
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This is a test project for a cross platform offline password manager application, at least for now nothing serious is planned for this project. (just an evaluation of the stack)
 
-## Recommended IDE Setup
+The stack used in this case is: Tauri, React and Typescript in Vite.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Todo
+
+- [ ] Basic functionality
+- [ ] Documentation
